@@ -3,7 +3,7 @@
 
 Unity 2022.3.12f, Universal RP
 
-![StartPos](https://github.com/true-10/Pendulum2D/blob/master/GameScreen.jpg)
+![StartPos](https://github.com/true-10/Pendulum2D/blob/master/GameScreen.png)
 
 ## controls: 
 - tap, click or space to drop circle
